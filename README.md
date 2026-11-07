@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  ![Language](https://img.shields.io/badge/Language-C-blue)
-  ![Internship](https://img.shields.io/badge/Internship-CodeAlpha-orange)
-  ![Task](https://img.shields.io/badge/Task-03-success)
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge" alt="C Language">
+  <img src="https://img.shields.io/badge/Internship-CodeAlpha-orange?style=for-the-badge" alt="CodeAlpha Internship">
+  <img src="https://img.shields.io/badge/Task-03-success?style=for-the-badge" alt="Task 03">
 </p>
-
 ---
 
 ## 📌 Project Overview
